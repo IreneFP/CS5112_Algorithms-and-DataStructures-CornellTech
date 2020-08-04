@@ -9,3 +9,5 @@ This is a compilation of few different Algorithms and Data Structures mini proje
 [HW2 - Dijkstra's Shortest-Path Algorithm](https://github.com/IreneFP/CS5112_Algorithms-and-DataStructures-CornellTech/tree/master/HW2)
 
 [HW3 - Reduction - transforming Boolean Expressions to CNF (Conjunctive Normal Form)](https://github.com/IreneFP/CS5112_Algorithms-and-DataStructures-CornellTech/tree/master/HW3)
+
+HW4 - Implementation of Boyer-Moore and a Bloom Filter
