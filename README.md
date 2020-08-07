@@ -3,7 +3,7 @@ CS5112 Algorithms and Data Structures for Applications - Cornell Tech
 
 This is a compilation of few different Algorithms and Data Structures mini projects that I completed in a team with Sachi Angle for the CS5112 course at Cornell Tech, NYC. Coded in Python.
 
-Some solutions have not been posted as requested by professors. If interested in knowing more about these projects you can contact me at if76@cornell.edu.
+Some solutions are not publicly available as requested by the professors. If interested in knowing more about these projects you can contact me at if76@cornell.edu.
 
 
 [HW1 - Diffting with costs, Respacing, & Dynamic Programming](https://github.com/IreneFP/CS5112_Algorithms-and-DataStructures-CornellTech/tree/master/HW1)
